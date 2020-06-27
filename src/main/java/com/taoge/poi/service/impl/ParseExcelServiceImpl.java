@@ -1,6 +1,5 @@
 package com.taoge.poi.service.impl;
 
-import com.alibaba.druid.sql.visitor.functions.Char;
 import com.taoge.poi.service.ParseExcelService;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.ss.usermodel.*;
